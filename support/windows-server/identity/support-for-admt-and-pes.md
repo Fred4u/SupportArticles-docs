@@ -40,7 +40,7 @@ The following guide provides guidance for migration of domains by using the Acti
 
 - Installing PES on Windows Server 2012 and later
 
-    Old ADMT guides don't mention the need to run the pedmig.msi file at an elevated command prompt. The latest ADMT guide mentions this requirement. The latest guide is dated February 26, 2018, and is available from the Microsoft Download Center.
+    Old ADMT guides don't mention the need to run the pwdmig.msi file at an elevated command prompt. The latest ADMT guide mentions this requirement. The latest guide is dated February 26, 2018, and is available from the Microsoft Download Center.
 
 - Computer running ADMT must not use Credential Guard
 
